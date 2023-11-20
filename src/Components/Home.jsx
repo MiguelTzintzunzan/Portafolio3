@@ -13,16 +13,16 @@ import PropTypes from "prop-types";
  * Home background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  *
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
-
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+import image from "../images/partenon.jpg";
+const imageAltText =
+  "La imagen muestra el frente del partenon en Atenas Grecia dedicado a la diosa Atenea Pártenos, con ocho columnas en las dos fachadas más cortas y 17 en las laterales siendo esta una imagen reconstruida";
 
 const Home = ({ name, title }) => {
   return (

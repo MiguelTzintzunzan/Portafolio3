@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/praga.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cibermanita",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Este proyecto consiste en el entrenamiento de una red neuronal para el reconocimiento de manos a partir de imagenes para poder mover una mano robotica.",
+    url: "https://github.com/MiguelTzintzunzan/Cibermanita",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Practicas de Html",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Este proyecto sobre una pagina web mostrando elementos de Html.",
+    url: "https://github.com/MiguelTzintzunzan/Practicas-de-HTML",
   },
   {
-    title: "My Resume Site",
+    title: "Retos Html",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Este proyecto contiene varios ejemplos para poder practicar en Html sobre paginas web.",
+    url: "https://github.com/MiguelTzintzunzan/Retos-HTML",
   },
   {
     title: "GitHub Codespaces and github.dev",

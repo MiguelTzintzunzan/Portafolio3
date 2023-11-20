@@ -16,27 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/ondas.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Ondas azules en el agua";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Soy un estudiante de ingenieria quimica al que le gusta leer y aprender ademas de contar aqueyo que aprendo, me gustan los deportes en especial las artes marciales ademas de la programacion en particular las redes neuronales; mi meta es trabajar en la divulgacion cientifica he investigacion relacionada con epigenetica.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Diseño web",
+  "Reparacion de celulares y computadoras",
+  "Enseñar a aprender ",
+  "Azure",
+  "Logica propocicional",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Soy una persona a la que le encanta empezar nuvos proyectos aunque me cuesta terminarlos, Toma lo que es util, desacha lo que no y agraga eso unico que es tuyo, Bruce Lee.";
 
 const About = () => {
   return (
