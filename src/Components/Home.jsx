@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/partenon.jpg";
+import image from "../images/Partenon.jpg";
 const imageAltText =
   "La imagen muestra el frente del partenon en Atenas Grecia dedicado a la diosa Atenea Pártenos, con ocho columnas en las dos fachadas más cortas y 17 en las laterales siendo esta una imagen reconstruida";
 
